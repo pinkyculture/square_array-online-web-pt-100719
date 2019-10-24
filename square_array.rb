@@ -4,3 +4,4 @@ def square_array(array)
  puts #(array)  
   # your code here
 end
+end
